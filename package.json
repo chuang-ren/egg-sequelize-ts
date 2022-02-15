@@ -1,6 +1,6 @@
 {
   "name": "@yunser/egg-sequelize-ts-partition",
-  "version": "0.2.3-2",
+  "version": "0.2.3-3",
   "private": false,
   "description": "egg Sequelize typescript plugin",
   "eggPlugin": {

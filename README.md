@@ -1,5 +1,7 @@
 # egg-sequelize-ts
 
+"version": "0.2.3-3",
+"sequelize": "https://gitee.com/chuang-ren/sequelize.git",
 
 "version": "0.2.3-2",
 "sequelize": "https://gitee.com/chuang-ren/sequelize.git#v5",
