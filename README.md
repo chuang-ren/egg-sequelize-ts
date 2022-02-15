@@ -1,5 +1,13 @@
 # egg-sequelize-ts
 
+
+"version": "0.2.3-2",
+"sequelize": "https://gitee.com/chuang-ren/sequelize.git#v5",
+
+"version": "0.2.3-1",
+"sequelize": "git://github.com/chuang-ren/sequelize.git#v4",
+
+
 ## 更改
 插件只是将 `egg-sequelize` 中的 sequelize 替换为 sequelize-typescript, 同时保证用户在 egg.js 创建的项目中使用 `egg-sequelize` 的方法尽量一致，在使用时的不同，我将下面一一阐述。 其他内容部分请查看 [egg-sequelize]('https://github.com/eggjs/egg-sequelize')。
 此插件已在生产项目中得到实践。
